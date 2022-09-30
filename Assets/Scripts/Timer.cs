@@ -40,6 +40,5 @@ public class Timer : MonoBehaviour
             }
             questionActive = !questionActive;
         }
-        Debug.Log(questionActive + ":" + timerValue + "=" + fillFraction);
     }
 }
