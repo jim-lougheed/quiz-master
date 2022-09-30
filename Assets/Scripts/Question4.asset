@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca768cc93b4b6f740b62fa130f8605ed, type: 3}
   m_Name: Question4
   m_EditorClassIdentifier: 
-  question: shengqi
+  question: 'Maria __________ frukost varje morgon. '
   responses:
-  - 
-  - 
-  - 
-  - 
-  correctResponseIndex: 0
+  - "\xE4tit"
+  - "\xE5t"
+  - "\xE4ter"
+  - "har \xE4tit"
+  answerIndex: 0

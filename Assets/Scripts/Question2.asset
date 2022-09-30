@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca768cc93b4b6f740b62fa130f8605ed, type: 3}
   m_Name: Question2
   m_EditorClassIdentifier: 
-  question: buhaoyisi
+  question: "Han ________ 25 \xE5r gammal."
   responses:
-  - 
-  - 
-  - 
-  - 
-  correctResponseIndex: 0
+  - "\xE4r"
+  - har
+  - vara
+  - "t\xE5g"
+  answerIndex: 1

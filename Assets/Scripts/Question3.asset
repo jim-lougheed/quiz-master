@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca768cc93b4b6f740b62fa130f8605ed, type: 3}
   m_Name: Question3
   m_EditorClassIdentifier: 
-  question: nanguo
+  question: "Jag ______________ din nya bil ig\xE5r? "
   responses:
-  - 
-  - 
-  - 
-  - 
-  correctResponseIndex: 0
+  - "s\xE5g"
+  - ser
+  - se
+  - sett
+  answerIndex: 0

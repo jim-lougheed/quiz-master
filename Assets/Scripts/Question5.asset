@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca768cc93b4b6f740b62fa130f8605ed, type: 3}
   m_Name: Question5
   m_EditorClassIdentifier: 
-  question: bijing
+  question: ______________ jobbar du?
   responses:
-  - 
-  - 
-  - 
-  - 
-  correctResponseIndex: 0
+  - vilket
+  - var
+  - vart
+  - daghem
+  answerIndex: 0
